@@ -78,7 +78,7 @@ class Question {
         questions.add(new Question("What is largest country in the world?", List.of("china", "Russia", "India", "America"),1));
         questions.add(new Question("What is 5+5*5?", List.of("30", "35", "53", "10"),0));
         questions.add(new Question("Who invented the TELESCOPE?", List.of("Issac Newton", "Albert Einstein", "Galileo Galilei", "Aristotle"),2));
-        questions.add(new Question("which country won the world cup in 2011?", List.of("Australia", "England", "Pakistan", "India"),3));
+        questions.add(new Question("which country won the world cup in 2011?", List.of("Australia", "England", "Pakistan", "India"),4));
     }
 
     private static void login() {
